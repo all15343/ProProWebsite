@@ -23,6 +23,8 @@
              href="http://www.amazon.de/ARTE-SCHWARZ-Design-Kronleuchter-roomproducts/dp/B0045TUHP0/ref=sr_1_9?ie=UTF8&qid=1446395972&sr=8-9&keywords=Luster"></ad-card>
 </div>
 <h2 class="like-h1">Werbung:</h2>
+<h2 class="like-h1">Werbung:</h2>
+<h2 class="like-h1">Werbung:</h2>
 
 <h2 class="like-h1">Küezlich Gekauft:</h2>
 
