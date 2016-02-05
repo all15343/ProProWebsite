@@ -16,7 +16,7 @@
 		'git submodule sync',
 		'git submodule update',
 		'git submodule status',
-    		'git hist',
+    		'git log --graph --abbrev-commit --date=relative --format=format:\'%h - (%ar) %s - %an%d\' --all',
 	);
 	// Run the commands for output
 	$output = '';
