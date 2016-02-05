@@ -11,10 +11,10 @@
 		$output .= "<span style=\"color: #6BE234;\">\$</span> <span style=\"color: #FF9800;\">{$command}\n</span>";
 		$output .= htmlentities(trim($tmp));
 		if(strlen($tmp)>0){
-			$output .= "<br><br>"
+			$output .= "<br><br>";
 		}
 		else {
-			$output .= "<br>"
+			$output .= "<br>";
 		}
 	}
 ?>
