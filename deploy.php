@@ -10,13 +10,13 @@
 	$commands = array(
 		'echo $PWD',
 		'whoami',
-  	'git fetch',
+  		'git fetch',
 		'git pull',
 		'git status',
 		'git submodule sync',
 		'git submodule update',
 		'git submodule status',
-    'git log --graph --abbrev-commit --decorate --format=format:\'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n\'\'          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)\' --all',
+    		'git hist',
 	);
 	// Run the commands for output
 	$output = '';
